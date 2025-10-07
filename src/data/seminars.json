@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Spiritual Discernment Seminar",
+    "description": "A powerful one-day seminar to help believers cultivate sensitivity to the voice of God, discern spirits, and walk in spiritual authority.",
+    "date": "August 17, 2025",
+    "image": "/images/seminar-discernment.jpg",
+    "category": "Spiritual Growth"
+  },
+  {
+    "id": 2,
+    "title": "Leadership and Church Governance",
+    "description": "Equipping current and aspiring church leaders with biblical and administrative tools to effectively govern the body of Christ.",
+    "date": "September 3, 2025",
+    "image": "/images/seminar-leadership.jpg",
+    "category": "Church Leadership"
+  },
+  {
+    "id": 3,
+    "title": "The Prayer Life of a Believer",
+    "description": "Explore the foundational principles and practices of building a vibrant and effective personal prayer life.",
+    "date": "September 14, 2025",
+    "image": "/images/seminar-prayer.jpg",
+    "category": "Prayer & Intercession"
+  },
+  {
+    "id": 4,
+    "title": "Marriage & Purpose Alignment",
+    "description": "A seminar designed for couples and singles to understand God's design for marriage and how to align with divine purpose together.",
+    "date": "October 2, 2025",
+    "image": "/images/seminar-marriage.jpg",
+    "category": "Marriage & Family"
+  },
+  {
+    "id": 5,
+    "title": "Youth & Identity in Christ",
+    "description": "A transformational session for youth to discover their identity in Christ, spiritual gifts, and kingdom purpose.",
+    "date": "October 20, 2025",
+    "image": "/images/seminar-youth.jpg",
+    "category": "Youth & Young Adults"
+  },
+  {
+    "id": 6,
+    "title": "Deliverance and Inner Healing",
+    "description": "Learn the biblical foundations and practical tools for deliverance ministry and emotional healing for leaders and prayer teams.",
+    "date": "November 8, 2025",
+    "image": "/images/seminar-deliverance.jpg",
+    "category": "Healing & Deliverance"
+  }
+]

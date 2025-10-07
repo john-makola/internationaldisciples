@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Conferences",
+    "description": "Spirit-filled, impactful gatherings that shape destinies.",
+    "image": "/images/event-deliverance.jpg",
+    "link": "/events/conferences"
+  },
+  {
+    "title": "Seminars",
+    "description": "Enrich your understanding through in-depth biblical training.",
+    "image": "/images/seminar-deliverance.jpg",
+    "link": "/events/seminars"
+  },
+  {
+    "title": "Workshops",
+    "description": "Hands-on sessions for practical growth and ministry skills.",
+    "image": "/images/workshop-worship.jpg",
+    "link": "/events/workshops"
+  }
+]

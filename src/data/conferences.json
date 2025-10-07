@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Deeper Life Conference",
+    "description": "An intensive weekend focused on holiness and discipleship.",
+    "date": "August 24, 2025",
+    "image": "/images/event-spiritual.jpg",
+    "category": "Spiritual Growth & Discipleship"
+  },
+  {
+    "id": 2,
+    "title": "Youth Ignite Camp",
+    "description": "3-day encounter empowering the youth in purity and fire.",
+    "date": "September 5–7, 2025",
+    "image": "/images/event-youth.jpg",
+    "category": "Youth & Young Adults"
+  },
+  {
+    "id": 3,
+    "title": "Marriage Altar Retreat",
+    "description": "Strengthen your marriage through biblical teachings.",
+    "date": "October 18, 2025",
+    "image": "/images/event-marriage.jpg",
+    "category": "Marriage & Family Life"
+  },
+  {
+    "id": 4,
+    "title": "Shepherd’s Summit",
+    "description": "Gathering for pastors, ministers, and church workers.",
+    "date": "October 25, 2025",
+    "image": "/images/event-leadership.jpg",
+    "category": "Church Leadership & Ministry Workers"
+  },
+  {
+    "id": 5,
+    "title": "Freedom Encounter",
+    "description": "Deliverance and inner healing through prayer and prophecy.",
+    "date": "November 9, 2025",
+    "image": "/images/event-deliverance.jpg",
+    "category": "Deliverance & Healing"
+  },
+  {
+    "id": 6,
+    "title": "Daughters of Zion Conference",
+    "description": "Gathering of women of prayer, purpose, and prophetic destiny.",
+    "date": "November 30, 2025",
+    "image": "/images/event-women.jpg",
+    "category": "Women of Purpose"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Prophetic Worship Workshop",
+    "description": "An intensive hands-on workshop equipping worship teams with tools for spontaneous and Spirit-led worship expression.",
+    "date": "August 22, 2025",
+    "image": "/images/workshop-worship.jpg",
+    "category": "Worship & Music"
+  },
+  {
+    "id": 2,
+    "title": "Evangelism in the Digital Age",
+    "description": "A practical training for believers on how to share the gospel effectively through social media, content creation, and digital tools.",
+    "date": "September 6, 2025",
+    "image": "/images/workshop-digital.jpg",
+    "category": "Evangelism & Outreach"
+  },
+  {
+    "id": 3,
+    "title": "Children’s Ministry Teaching Tools",
+    "description": "A workshop for Sunday school teachers on creative methods, curriculum planning, and child discipleship strategies.",
+    "date": "September 21, 2025",
+    "image": "/images/workshop-children.jpg",
+    "category": "Children’s Ministry"
+  },
+  {
+    "id": 4,
+    "title": "Healing the Wounded Soul",
+    "description": "Inner healing and counseling tools to help leaders and lay counselors guide others through emotional healing journeys.",
+    "date": "October 4, 2025",
+    "image": "/images/workshop-healing.jpg",
+    "category": "Inner Healing & Counseling"
+  },
+  {
+    "id": 5,
+    "title": "Church Media & Tech Skills",
+    "description": "A technical workshop for media teams on livestreaming, video production, sound mixing, and church technology infrastructure.",
+    "date": "October 19, 2025",
+    "image": "/images/workshop-media.jpg",
+    "category": "Media & Tech Ministry"
+  },
+  {
+    "id": 6,
+    "title": "Preaching Lab",
+    "description": "A dynamic preaching and homiletics lab where participants practice sermon preparation, delivery, and biblical accuracy.",
+    "date": "November 10, 2025",
+    "image": "/images/workshop-preaching.jpg",
+    "category": "Preaching & Teaching"
+  }
+]

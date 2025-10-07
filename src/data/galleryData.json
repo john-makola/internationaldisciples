@@ -1,0 +1,107 @@
+[
+  {
+    "id": "crusades",
+    "title": "Crusades & Outreaches",
+    "description": "Evangelistic missions: Open-air Crusades, Street Preaching, and Community Outreaches aimed at reaching the unreached.",
+    "image": "/images/crusade/crusade-cover.jpg",
+    "images": [
+      "/images/crusade/crusade1.jpg",
+      "/images/crusade/crusade2.jpg",
+      "/images/crusade/crusade3.jpg",
+      "/images/crusade/crusade4.jpg",
+      "/images/crusade/crusade5.jpg"
+    ]
+  },
+  {
+    "id": "revival",
+    "title": "Revival Meetings",
+    "description": "Spirit-filled gatherings focused on reigniting passion for God through worship, teaching, and impartation.",
+    "image": "/images/revival/revival-cover.jpg",
+    "images": ["/images/revival/revival1.jpg", "/images/revival/revival2.jpg"]
+  },
+  {
+    "id": "training",
+    "title": "Leaders Training",
+    "description": "Workshops and equipping sessions for pastors, ushers, counselors, and ministry leaders to build capacity and character.",
+    "image": "/images/training/training-cover.jpg",
+    "images": [
+      "/images/training/training1.jpg",
+      "/images/training/training2.jpg",
+      "/images/training/training3.jpg",
+      "/images/training/training4.jpg",
+      "/images/training/training5.jpg"
+    ]
+  },
+  {
+    "id": "youth",
+    "title": "Youth Ministry",
+    "description": "Outreach and Discipleship programs in High Schools, Colleges, and Youth Groups focused on raising Godly leaders.",
+    "image": "/images/youth/youth-cover.jpg",
+    "images": [
+      "/images/youth/youth1.jpg",
+      "/images/youth/youth2.jpg",
+      "/images/youth/youth3.jpg",
+      "/images/youth/youth4.jpg",
+      "/images/youth/youth5.jpg",
+      "/images/youth/youth6.jpg",
+      "/images/youth/youth7.jpg",
+      "/images/youth/youth8.jpg",
+      "/images/youth/youth9.jpg",
+      "/images/youth/youth1.jpg",
+      "/images/youth/youth10.jpg",
+      "/images/youth/youth11.jpg",
+      "/images/youth/youth12.jpg",
+      "/images/youth/youth13.jpg",
+      "/images/youth/youth14.jpg",
+      "/images/youth/youth15.jpg",
+      "/images/youth/youth16.jpg",
+      "/images/youth/school1.jpg",
+      "/images/youth/school2.jpg",
+      "/images/youth/school3.jpg",
+      "/images/youth/school4.jpg",
+      "/images/youth/school5.jpg",
+      "/images/youth/school6.jpg"
+    ]
+  },
+  {
+    "id": "projects",
+    "title": "Community Projects",
+    "description": "Charity missions: Food drives, Medical Camps, and Humanitarian aid efforts serving communities in need.",
+    "image": "/images/projects/projects-cover.jpg",
+    "images": ["/images/projects/project1.jpg", "/images/projects/project2.jpg"]
+  },
+  {
+    "id": "missions",
+    "title": "Missions",
+    "description": "Cross-border and International Missions .",
+    "image": "/images/missions/mission-cover.jpg",
+    "images": [
+      "/images/missions/mission1.jpg",
+      "/images/missions/mission2.jpg",
+      "/images/missions/mission3.jpg",
+      "/images/missions/mission4.jpg",
+      "/images/missions/mission5.jpg",
+      "/images/missions/mission6.jpg",
+      "/images/missions/mission7.jpg",
+      "/images/missions/mission8.jpg",
+      "/images/missions/mission9.jpg"
+    ]
+  },
+  {
+    "id": "partnerships",
+    "title": "Partnerships",
+    "description": "Collaborations with Churches, Ministries, and Networks in support of evangelism and discipleship goals.",
+    "image": "/images//partnerships/partnerships-cover.jpg",
+    "images": [
+      "/images/partnerships/partnership1.jpg",
+      "/images/partnerships/partnership2.jpg"
+    ]
+  },
+  {
+    "id": "baptisms",
+    "title": "Baptisms",
+    "description": "Capturing the joy and commitment of new believers with baptism.",
+    "image": "/images/baptism/baptism-cover.jpg",
+    "images": ["/images/baptism/baptism1.jpg", "/images/baptism/baptism2.jpg"]
+  }
+]
